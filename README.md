@@ -1,6 +1,6 @@
 # Data_Science_bootcamp
 
-Project 1 - Web Scraping with Python
+### Project 1 - Web Scraping with Python
 In this project, you will apply your knowledge of Python and its ecosystem of libraries to scrape information from a website and create a dataset of CSV file(s). Here are the steps you'll follow:
 
 - Pick a website and describe your objective
